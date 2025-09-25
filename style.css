@@ -65,7 +65,7 @@ body{
   align-items: center;
   justify-content: space-between;
   padding: 20px 80px;
-  background-color: #E3E6F3;
+  background-color: #5d7173;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06)
 }
 
@@ -187,7 +187,7 @@ display: none;
   line-height: 1;
   border-radius: 4px;
   color: #088178;
-  background-color: #b3e4;
+  background-color: #5d7173;
 }
 
 #feature .fe-box img{
@@ -609,7 +609,7 @@ footer .copyright{
   right: -300px;
   height: 100vh;
   width: 300px;
-  background-color: #E3E6F3;
+  background-color: #5d7173;
   box-shadow: 0 40px 60px rgba(0, 0, 0, 0.1);
   padding: 80px 0 0 10px;
     transition: 0.3s
